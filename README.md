@@ -1,2 +1,2 @@
 # python-treino-panda
-treinos com pandas
+treinos com pandas e outras coisas
